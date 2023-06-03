@@ -1,2 +1,0 @@
-Check out our documentation for more information:
-https://containeroo.github.io/cloudflare-operator/

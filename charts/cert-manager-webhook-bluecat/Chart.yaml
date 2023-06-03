@@ -1,5 +1,0 @@
-apiVersion: v1
-appVersion: "0.0.1"
-description: Cert-manager plugin for bluecat dns
-name: cert-manager-webhook-bluecat
-version: 0.0.1
